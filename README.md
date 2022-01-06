@@ -1,27 +1,10 @@
-# FirstApp
+## Lanzar aplicacion
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Run `ng serve` para observar en el puerto 4200 la aplicación funcionando.
 
-## Development server
+## Unit tests
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Conozco la importancia de los unit tests y los aplico en mi día a día, ya que dan robustez al código y permiten mantener el código y asegurar que features anteriores no sufren modificaciones. Este proyecto pequeño y sencillo no cuenta con ellos.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Resumen
+Tras haber estado unas 2 horas aprendiendo Angular veo muchas similitudes con React (donde ya tengo algo de experiencia), ya que divide la lógica de las funciones y el código inyectado HTML en zonas diferentes. Contar con inyeccion de dependencias es un punto muy a favor de este framework. Con este pequeño proyecto quiero demostrar que no tengo problemas en aprender nuevos lenguajes y que tengo suficiente experiencia laboral como para poder aportar valor a una empresa de desarrollo de software.
